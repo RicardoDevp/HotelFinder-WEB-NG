@@ -8,5 +8,5 @@ import { HotelsReservationsComponent } from './components/hotels-reservations/ho
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = 'apps-angular-technical-test';
+  title = 'HotelFinder-WEB-NG';
 }
